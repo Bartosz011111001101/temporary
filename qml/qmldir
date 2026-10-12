@@ -1,0 +1,4 @@
+singleton Theme 1.0 Theme.qml
+EditorController 1.0 EditorController.qml
+DragController 1.0 DragController.qml
+Main 1.0 Main.qml

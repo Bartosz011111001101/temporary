@@ -1,0 +1,440 @@
+{
+  "format": "qmlword-document",
+  "schemaVersion": 1,
+  "meta": {
+    "title": "Raport kwartalny",
+    "author": "QmlWord",
+    "created": "",
+    "modified": "",
+    "fontFamily": "Calibri",
+    "fontSize": 11.0
+  },
+  "page": {
+    "size": "A4",
+    "orientation": "portrait",
+    "margins": {
+      "top": 25.0,
+      "bottom": 25.0,
+      "left": 25.0,
+      "right": 25.0
+    }
+  },
+  "blocks": [
+    {
+      "id": "bc4a231f7c9fe",
+      "type": "paragraph",
+      "style": "title",
+      "runs": [
+        {
+          "text": "Raport kwartalny"
+        }
+      ],
+      "para": {
+        "align": "left",
+        "indent": 0,
+        "spaceBefore": 0,
+        "spaceAfter": 14,
+        "lineHeight": 1.0,
+        "list": "none"
+      }
+    },
+    {
+      "id": "bd00abf6592a7",
+      "type": "paragraph",
+      "style": "body",
+      "runs": [
+        {
+          "text": "Dokument przykładowy – pokazuje sekcje, listy, tabelę z podpisem, "
+        },
+        {
+          "text": "obraz",
+          "bold": true
+        },
+        {
+          "text": " i "
+        },
+        {
+          "text": "link",
+          "link": "https://doc.qt.io"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "para": {
+        "align": "left",
+        "indent": 0,
+        "spaceBefore": 0.0,
+        "spaceAfter": 6.0,
+        "lineHeight": 1.15,
+        "list": "none"
+      }
+    },
+    {
+      "id": "b3ebc72b4738c",
+      "type": "heading",
+      "level": 1,
+      "runs": [
+        {
+          "text": "Podsumowanie"
+        }
+      ],
+      "description": "Najważniejsze wnioski w skrócie",
+      "para": {
+        "align": "left",
+        "indent": 0,
+        "spaceBefore": 14,
+        "spaceAfter": 4,
+        "lineHeight": 1.1,
+        "list": "none"
+      }
+    },
+    {
+      "id": "b16ca50c5c669",
+      "type": "paragraph",
+      "style": "body",
+      "runs": [
+        {
+          "text": "Przychody rosły w każdym kwartale. Najważniejsze czynniki:"
+        }
+      ],
+      "para": {
+        "align": "left",
+        "indent": 0,
+        "spaceBefore": 0.0,
+        "spaceAfter": 6.0,
+        "lineHeight": 1.15,
+        "list": "none"
+      }
+    },
+    {
+      "id": "bc16838352573",
+      "type": "paragraph",
+      "style": "body",
+      "runs": [
+        {
+          "text": "nowi klienci w segmencie B2B,"
+        }
+      ],
+      "para": {
+        "align": "left",
+        "indent": 0,
+        "spaceBefore": 0.0,
+        "spaceAfter": 6.0,
+        "lineHeight": 1.15,
+        "list": "bullet"
+      }
+    },
+    {
+      "id": "ba59fa5b8a1c3",
+      "type": "paragraph",
+      "style": "body",
+      "runs": [
+        {
+          "text": "niższe koszty logistyki,"
+        }
+      ],
+      "para": {
+        "align": "left",
+        "indent": 0,
+        "spaceBefore": 0.0,
+        "spaceAfter": 6.0,
+        "lineHeight": 1.15,
+        "list": "bullet"
+      }
+    },
+    {
+      "id": "bfe3260af4f9f",
+      "type": "paragraph",
+      "style": "body",
+      "runs": [
+        {
+          "text": "sezonowość sprzedaży w III kwartale."
+        }
+      ],
+      "para": {
+        "align": "left",
+        "indent": 0,
+        "spaceBefore": 0.0,
+        "spaceAfter": 6.0,
+        "lineHeight": 1.15,
+        "list": "bullet"
+      }
+    },
+    {
+      "id": "b59b76ce3b021",
+      "type": "heading",
+      "level": 2,
+      "runs": [
+        {
+          "text": "Wyniki finansowe"
+        }
+      ],
+      "para": {
+        "align": "left",
+        "indent": 0,
+        "spaceBefore": 14,
+        "spaceAfter": 4,
+        "lineHeight": 1.1,
+        "list": "none"
+      }
+    },
+    {
+      "id": "b244e3861f769",
+      "type": "table",
+      "table": {
+        "rows": 4,
+        "cols": 3,
+        "colWidths": [
+          0.333333,
+          0.333333,
+          0.333333
+        ],
+        "rowHeights": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "headerRow": true,
+        "repeatHeader": true,
+        "cells": [
+          [
+            {
+              "runs": [
+                {
+                  "text": "Kwartał"
+                }
+              ]
+            },
+            {
+              "runs": [
+                {
+                  "text": "Przychód (tys. zł)"
+                }
+              ],
+              "align": "right"
+            },
+            {
+              "runs": [
+                {
+                  "text": "Zmiana"
+                }
+              ],
+              "align": "right"
+            }
+          ],
+          [
+            {
+              "runs": [
+                {
+                  "text": "I"
+                }
+              ]
+            },
+            {
+              "runs": [
+                {
+                  "text": "1 240"
+                }
+              ],
+              "align": "right"
+            },
+            {
+              "runs": [
+                {
+                  "text": "+4%"
+                }
+              ],
+              "align": "right"
+            }
+          ],
+          [
+            {
+              "runs": [
+                {
+                  "text": "II"
+                }
+              ]
+            },
+            {
+              "runs": [
+                {
+                  "text": "1 315"
+                }
+              ],
+              "align": "right"
+            },
+            {
+              "runs": [
+                {
+                  "text": "+6%"
+                }
+              ],
+              "align": "right"
+            }
+          ],
+          [
+            {
+              "runs": [
+                {
+                  "text": "III"
+                }
+              ]
+            },
+            {
+              "runs": [
+                {
+                  "text": "1 402"
+                }
+              ],
+              "align": "right"
+            },
+            {
+              "runs": [
+                {
+                  "text": "+7%"
+                }
+              ],
+              "align": "right"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "b54e51e29fe24",
+      "type": "caption",
+      "caption": {
+        "targetId": "b244e3861f769",
+        "text": "Przychody w kolejnych kwartałach"
+      }
+    },
+    {
+      "id": "b68ac13effbdb",
+      "type": "heading",
+      "level": 2,
+      "runs": [
+        {
+          "text": "Trend wieloletni"
+        }
+      ],
+      "para": {
+        "align": "left",
+        "indent": 0,
+        "spaceBefore": 14,
+        "spaceAfter": 4,
+        "lineHeight": 1.1,
+        "list": "none"
+      }
+    },
+    {
+      "id": "b4c911398ce84",
+      "type": "image",
+      "image": {
+        "path": "wykres.png",
+        "width": 0.8,
+        "align": "center",
+        "alt": ""
+      }
+    },
+    {
+      "id": "ba179d884a730",
+      "type": "caption",
+      "caption": {
+        "targetId": "b4c911398ce84",
+        "text": "Przychód roczny (mln zł)"
+      }
+    },
+    {
+      "id": "b5c0923f6a72f",
+      "type": "pageBreak"
+    },
+    {
+      "id": "b313eed7937f3",
+      "type": "heading",
+      "level": 1,
+      "runs": [
+        {
+          "text": "Plan na kolejny rok"
+        }
+      ],
+      "para": {
+        "align": "left",
+        "indent": 0,
+        "spaceBefore": 14,
+        "spaceAfter": 4,
+        "lineHeight": 1.1,
+        "list": "none"
+      }
+    },
+    {
+      "id": "be295c202b64c",
+      "type": "paragraph",
+      "style": "body",
+      "runs": [
+        {
+          "text": "Priorytety: "
+        },
+        {
+          "text": "automatyzacja",
+          "italic": true
+        },
+        {
+          "text": ", ekspansja zagraniczna i "
+        },
+        {
+          "text": "nowe produkty",
+          "highlight": "#fff3a3"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "para": {
+        "align": "left",
+        "indent": 0,
+        "spaceBefore": 0.0,
+        "spaceAfter": 6.0,
+        "lineHeight": 1.15,
+        "list": "none"
+      }
+    },
+    {
+      "id": "bab90c7fa5b9f",
+      "type": "heading",
+      "level": 2,
+      "runs": [
+        {
+          "text": "Ryzyka"
+        }
+      ],
+      "para": {
+        "align": "left",
+        "indent": 0,
+        "spaceBefore": 14,
+        "spaceAfter": 4,
+        "lineHeight": 1.1,
+        "list": "none"
+      }
+    },
+    {
+      "id": "b3a72d6f8e5a3",
+      "type": "paragraph",
+      "style": "body",
+      "runs": [
+        {
+          "text": "Kursy walut oraz dostępność specjalistów."
+        }
+      ],
+      "para": {
+        "align": "left",
+        "indent": 0,
+        "spaceBefore": 0.0,
+        "spaceAfter": 6.0,
+        "lineHeight": 1.15,
+        "list": "none"
+      }
+    }
+  ]
+}
